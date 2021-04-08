@@ -73,7 +73,6 @@ export default function App() {
         <Text style={{ color: "white" }}>Remove your data</Text>
       </TouchableOpacity>
 
-
     </View>
   );
 }
